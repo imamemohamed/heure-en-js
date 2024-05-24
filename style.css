@@ -1,0 +1,14 @@
+/*augmenteer un peu les paragraphe*/
+#p1{ 
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+/* puisque la couleur de body est noir donc je colore 
+les textes du div en blanc puis le centrer*/
+div{
+    color: white;
+    margin: 200px auto;
+    text-align: center;
+    width: 50%;
+}
